@@ -1,0 +1,9 @@
+Config =
+
+namescript = "KHOIDEPZAI",--Ten Script
+
+logoscript = "117390141608083",--ID Logo Script
+
+tacgia = " KHÔI"-- Tên Tác Giả
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnDepZaiHub/AnDepZaiHubBeta/main/AnDepZaiHubBeta.lua"))()
